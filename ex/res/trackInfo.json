@@ -1,0 +1,25 @@
+{
+  "id": 188267445,
+  "type": "TRACK",
+  "title": "Bad Habits",
+  "duration": 231,
+  "explicit": false,
+  "position": 1,
+  "artists": [
+    {
+      "id": 3995478,
+      "name": "Ed Sheeran"
+    }
+  ],
+  "album": {
+    "id": 188267444,
+    "title": "Bad Habits"
+  },
+  "image": {
+    "original": null,
+    "large": "https://resources.tidal.com/images/37bf9ae3/7376/4150/aef9/ee4cd898e725/1080x1080.jpg",
+    "medium": "https://resources.tidal.com/images/37bf9ae3/7376/4150/aef9/ee4cd898e725/640x640.jpg",
+    "small": "https://resources.tidal.com/images/37bf9ae3/7376/4150/aef9/ee4cd898e725/320x320.jpg",
+    "xsmall": "https://resources.tidal.com/images/37bf9ae3/7376/4150/aef9/ee4cd898e725/160x160.jpg"
+  }
+}

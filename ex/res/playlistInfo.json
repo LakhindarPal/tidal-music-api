@@ -1,0 +1,782 @@
+{
+  "id": "3f9b1e8b-6802-4c98-be40-365bb0c7afee",
+  "type": "PLAYLIST",
+  "title": "Written By: Ed Sheeran",
+  "description": "On top of his prolific career as a singer-songwriter, Ed Sheeran has minted anthems spanning across cultures, countries, and genres. Known for his creative and playful songwriting style bound to make an ear-worm, Sheeran has lent his talents to tracks made by K-Pop Groups, British Boy Bands, Country-Pop stars, and West Coast Rap superstars alike.\n\n(Photo: Rovi, press)",
+  "creator": {
+    "id": 0,
+    "name": "TIDAL"
+  },
+  "createdAt": "2019-05-21T19:17:43.848Z",
+  "updatedAt": "2023-11-03T04:26:25.954Z",
+  "image": {
+    "original": null,
+    "large": "https://resources.tidal.com/images/b9bb935c/5bd0/4008/8ca5/347b333733cf/1080x1080.jpg",
+    "medium": "https://resources.tidal.com/images/b9bb935c/5bd0/4008/8ca5/347b333733cf/640x640.jpg",
+    "small": "https://resources.tidal.com/images/b9bb935c/5bd0/4008/8ca5/347b333733cf/320x320.jpg",
+    "xsmall": "https://resources.tidal.com/images/b9bb935c/5bd0/4008/8ca5/347b333733cf/160x160.jpg"
+  },
+  "size": 28,
+  "tracks": [
+    {
+      "id": 325872324,
+      "type": "TRACK",
+      "title": "Yes or No",
+      "duration": 148,
+      "explicit": false,
+      "position": 5,
+      "artists": [
+        {
+          "id": 13030799,
+          "name": "Jung Kook"
+        }
+      ],
+      "album": {
+        "id": 325872311,
+        "title": "GOLDEN"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/d38ab892/5458/4c82/abcd/443d6053387a/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/d38ab892/5458/4c82/abcd/443d6053387a/640x640.jpg",
+        "small": "https://resources.tidal.com/images/d38ab892/5458/4c82/abcd/443d6053387a/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/d38ab892/5458/4c82/abcd/443d6053387a/160x160.jpg"
+      }
+    },
+    {
+      "id": 166335356,
+      "type": "TRACK",
+      "title": "Underdog",
+      "duration": 204,
+      "explicit": false,
+      "position": 5,
+      "artists": [
+        {
+          "id": 1552,
+          "name": "Alicia Keys"
+        }
+      ],
+      "album": {
+        "id": 166335351,
+        "title": "ALICIA"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/586b6cc4/6025/4e46/a119/09bab19c9bfc/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/586b6cc4/6025/4e46/a119/09bab19c9bfc/640x640.jpg",
+        "small": "https://resources.tidal.com/images/586b6cc4/6025/4e46/a119/09bab19c9bfc/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/586b6cc4/6025/4e46/a119/09bab19c9bfc/160x160.jpg"
+      }
+    },
+    {
+      "id": 87487149,
+      "type": "TRACK",
+      "title": "2002",
+      "duration": 187,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 6127816,
+          "name": "Anne-Marie"
+        }
+      ],
+      "album": {
+        "id": 87487148,
+        "title": "2002"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/4dae6753/a037/483f/a3d2/a032caacb4c1/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/4dae6753/a037/483f/a3d2/a032caacb4c1/640x640.jpg",
+        "small": "https://resources.tidal.com/images/4dae6753/a037/483f/a3d2/a032caacb4c1/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/4dae6753/a037/483f/a3d2/a032caacb4c1/160x160.jpg"
+      }
+    },
+    {
+      "id": 73922005,
+      "type": "TRACK",
+      "title": "Strip That Down",
+      "duration": 204,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 8763253,
+          "name": "Liam Payne"
+        },
+        {
+          "id": 5906497,
+          "name": "Quavo"
+        }
+      ],
+      "album": {
+        "id": 73922004,
+        "title": "Strip That Down"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/07bb0f04/7fa0/402a/85c4/acb4613a8fc0/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/07bb0f04/7fa0/402a/85c4/acb4613a8fc0/640x640.jpg",
+        "small": "https://resources.tidal.com/images/07bb0f04/7fa0/402a/85c4/acb4613a8fc0/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/07bb0f04/7fa0/402a/85c4/acb4613a8fc0/160x160.jpg"
+      }
+    },
+    {
+      "id": 91556265,
+      "type": "TRACK",
+      "title": "Eastside",
+      "duration": 173,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 10075738,
+          "name": "benny blanco"
+        },
+        {
+          "id": 5386709,
+          "name": "Halsey"
+        },
+        {
+          "id": 4916222,
+          "name": "Khalid"
+        }
+      ],
+      "album": {
+        "id": 91556264,
+        "title": "Eastside"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/1a8a179e/734d/4838/98bd/a0f75fcfe5da/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/1a8a179e/734d/4838/98bd/a0f75fcfe5da/640x640.jpg",
+        "small": "https://resources.tidal.com/images/1a8a179e/734d/4838/98bd/a0f75fcfe5da/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/1a8a179e/734d/4838/98bd/a0f75fcfe5da/160x160.jpg"
+      }
+    },
+    {
+      "id": 83226945,
+      "type": "TRACK",
+      "title": "Miss You",
+      "duration": 186,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 4752593,
+          "name": "Cashmere Cat"
+        },
+        {
+          "id": 3624619,
+          "name": "Major Lazer"
+        },
+        {
+          "id": 5644145,
+          "name": "Tory Lanez"
+        }
+      ],
+      "album": {
+        "id": 83226944,
+        "title": "Miss You"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/f915b19e/9f0e/4c56/8689/9ffdfd805783/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/f915b19e/9f0e/4c56/8689/9ffdfd805783/640x640.jpg",
+        "small": "https://resources.tidal.com/images/f915b19e/9f0e/4c56/8689/9ffdfd805783/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/f915b19e/9f0e/4c56/8689/9ffdfd805783/160x160.jpg"
+      }
+    },
+    {
+      "id": 63137944,
+      "type": "TRACK",
+      "title": "Cold Water",
+      "duration": 185,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 3624619,
+          "name": "Major Lazer"
+        },
+        {
+          "id": 3639248,
+          "name": "Justin Bieber"
+        },
+        {
+          "id": 4816276,
+          "name": "MØ"
+        }
+      ],
+      "album": {
+        "id": 63137943,
+        "title": "Cold Water"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/27494278/6844/465d/a4e1/e32ae64f586a/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/27494278/6844/465d/a4e1/e32ae64f586a/640x640.jpg",
+        "small": "https://resources.tidal.com/images/27494278/6844/465d/a4e1/e32ae64f586a/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/27494278/6844/465d/a4e1/e32ae64f586a/160x160.jpg"
+      }
+    },
+    {
+      "id": 78795297,
+      "type": "TRACK",
+      "title": "A Different Way",
+      "duration": 198,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 4826235,
+          "name": "DJ Snake"
+        },
+        {
+          "id": 4898953,
+          "name": "Lauv"
+        }
+      ],
+      "album": {
+        "id": 78795296,
+        "title": "A Different Way"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/df60a164/2085/4293/b694/5dea92c1b56c/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/df60a164/2085/4293/b694/5dea92c1b56c/640x640.jpg",
+        "small": "https://resources.tidal.com/images/df60a164/2085/4293/b694/5dea92c1b56c/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/df60a164/2085/4293/b694/5dea92c1b56c/160x160.jpg"
+      }
+    },
+    {
+      "id": 35358111,
+      "type": "TRACK",
+      "title": "Everything Has Changed",
+      "duration": 244,
+      "explicit": false,
+      "position": 14,
+      "artists": [
+        {
+          "id": 3557299,
+          "name": "Taylor Swift"
+        },
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 35358097,
+        "title": "Red"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/fa796c92/e85c/4fe5/b267/e4c0e2b74159/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/fa796c92/e85c/4fe5/b267/e4c0e2b74159/640x640.jpg",
+        "small": "https://resources.tidal.com/images/fa796c92/e85c/4fe5/b267/e4c0e2b74159/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/fa796c92/e85c/4fe5/b267/e4c0e2b74159/160x160.jpg"
+      }
+    },
+    {
+      "id": 50436101,
+      "type": "TRACK",
+      "title": "Dark Times",
+      "duration": 261,
+      "explicit": true,
+      "position": 12,
+      "artists": [
+        {
+          "id": 4761957,
+          "name": "The Weeknd"
+        },
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 50436090,
+        "title": "Beauty Behind The Madness"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/2fd9ef07/9888/4e8d/ba04/83b826390128/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/2fd9ef07/9888/4e8d/ba04/83b826390128/640x640.jpg",
+        "small": "https://resources.tidal.com/images/2fd9ef07/9888/4e8d/ba04/83b826390128/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/2fd9ef07/9888/4e8d/ba04/83b826390128/160x160.jpg"
+      }
+    },
+    {
+      "id": 98659968,
+      "type": "TRACK",
+      "title": "Your Song",
+      "duration": 180,
+      "explicit": false,
+      "position": 5,
+      "artists": [
+        {
+          "id": 4639239,
+          "name": "Rita Ora"
+        }
+      ],
+      "album": {
+        "id": 98659963,
+        "title": "Phoenix (Deluxe Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/61d1b7c4/fe32/4cd9/8a53/e39b5fe30892/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/61d1b7c4/fe32/4cd9/8a53/e39b5fe30892/640x640.jpg",
+        "small": "https://resources.tidal.com/images/61d1b7c4/fe32/4cd9/8a53/e39b5fe30892/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/61d1b7c4/fe32/4cd9/8a53/e39b5fe30892/160x160.jpg"
+      }
+    },
+    {
+      "id": 95970208,
+      "type": "TRACK",
+      "title": "Thursday",
+      "duration": 216,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 5701795,
+          "name": "Jess Glynne"
+        }
+      ],
+      "album": {
+        "id": 95970207,
+        "title": "Thursday"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/968486d7/666a/45dd/ac7b/8f7a7f2d036a/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/968486d7/666a/45dd/ac7b/8f7a7f2d036a/640x640.jpg",
+        "small": "https://resources.tidal.com/images/968486d7/666a/45dd/ac7b/8f7a7f2d036a/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/968486d7/666a/45dd/ac7b/8f7a7f2d036a/160x160.jpg"
+      }
+    },
+    {
+      "id": 53893678,
+      "type": "TRACK",
+      "title": "Love Yourself",
+      "duration": 234,
+      "explicit": false,
+      "position": 5,
+      "artists": [
+        {
+          "id": 3639248,
+          "name": "Justin Bieber"
+        }
+      ],
+      "album": {
+        "id": 53893673,
+        "title": "Purpose (Deluxe)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/640x640.jpg",
+        "small": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/160x160.jpg"
+      }
+    },
+    {
+      "id": 117674969,
+      "type": "TRACK",
+      "title": "Stack It Up",
+      "duration": 166,
+      "explicit": true,
+      "position": 1,
+      "artists": [
+        {
+          "id": 8763253,
+          "name": "Liam Payne"
+        },
+        {
+          "id": 7475087,
+          "name": "A Boogie Wit da Hoodie"
+        }
+      ],
+      "album": {
+        "id": 117674968,
+        "title": "Stack It Up"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/35fa613f/6c54/4a8e/8bee/139a76980d41/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/35fa613f/6c54/4a8e/8bee/139a76980d41/640x640.jpg",
+        "small": "https://resources.tidal.com/images/35fa613f/6c54/4a8e/8bee/139a76980d41/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/35fa613f/6c54/4a8e/8bee/139a76980d41/160x160.jpg"
+      }
+    },
+    {
+      "id": 35977410,
+      "type": "TRACK",
+      "title": "Say You Love Me",
+      "duration": 257,
+      "explicit": false,
+      "position": 4,
+      "artists": [
+        {
+          "id": 4205993,
+          "name": "Jessie Ware"
+        }
+      ],
+      "album": {
+        "id": 35977406,
+        "title": "Tough Love (Deluxe)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/fa1a44aa/eba4/490b/bac7/466ac545de1e/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/fa1a44aa/eba4/490b/bac7/466ac545de1e/640x640.jpg",
+        "small": "https://resources.tidal.com/images/fa1a44aa/eba4/490b/bac7/466ac545de1e/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/fa1a44aa/eba4/490b/bac7/466ac545de1e/160x160.jpg"
+      }
+    },
+    {
+      "id": 71513808,
+      "type": "TRACK",
+      "title": "Don't Let Me Be Yours",
+      "duration": 199,
+      "explicit": false,
+      "position": 9,
+      "artists": [
+        {
+          "id": 4815108,
+          "name": "Zara Larsson"
+        }
+      ],
+      "album": {
+        "id": 71513799,
+        "title": "So Good"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/d6bcc19a/9c9f/4f20/9cf9/e1ce7b463948/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/d6bcc19a/9c9f/4f20/9cf9/e1ce7b463948/640x640.jpg",
+        "small": "https://resources.tidal.com/images/d6bcc19a/9c9f/4f20/9cf9/e1ce7b463948/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/d6bcc19a/9c9f/4f20/9cf9/e1ce7b463948/160x160.jpg"
+      }
+    },
+    {
+      "id": 53893682,
+      "type": "TRACK",
+      "title": "The Feeling",
+      "duration": 245,
+      "explicit": false,
+      "position": 9,
+      "artists": [
+        {
+          "id": 3639248,
+          "name": "Justin Bieber"
+        },
+        {
+          "id": 5386709,
+          "name": "Halsey"
+        }
+      ],
+      "album": {
+        "id": 53893673,
+        "title": "Purpose (Deluxe)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/640x640.jpg",
+        "small": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/57cb78dc/8d09/4fa8/893d/35ed486a69fa/160x160.jpg"
+      }
+    },
+    {
+      "id": 17765201,
+      "type": "TRACK",
+      "title": "Little Things",
+      "duration": 220,
+      "explicit": false,
+      "position": 3,
+      "artists": [
+        {
+          "id": 4092933,
+          "name": "One Direction"
+        }
+      ],
+      "album": {
+        "id": 17765198,
+        "title": "Take Me Home"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/8fd64435/4cf7/4e91/876c/342aaf89c0fd/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/8fd64435/4cf7/4e91/876c/342aaf89c0fd/640x640.jpg",
+        "small": "https://resources.tidal.com/images/8fd64435/4cf7/4e91/876c/342aaf89c0fd/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/8fd64435/4cf7/4e91/876c/342aaf89c0fd/160x160.jpg"
+      }
+    },
+    {
+      "id": 146505231,
+      "type": "TRACK",
+      "title": "Moves (feat. Snoop Dogg)",
+      "duration": 165,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 3756900,
+          "name": "Olly Murs"
+        },
+        {
+          "id": 8914,
+          "name": "Snoop Dogg"
+        },
+        {
+          "id": 5095550,
+          "name": "Lady Leshurr"
+        }
+      ],
+      "album": {
+        "id": 146505230,
+        "title": "You Know I Know (Expanded Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/7d6ffd60/a4d1/4293/8a22/6afa7d24d216/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/7d6ffd60/a4d1/4293/8a22/6afa7d24d216/640x640.jpg",
+        "small": "https://resources.tidal.com/images/7d6ffd60/a4d1/4293/8a22/6afa7d24d216/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/7d6ffd60/a4d1/4293/8a22/6afa7d24d216/160x160.jpg"
+      }
+    },
+    {
+      "id": 208201903,
+      "type": "TRACK",
+      "title": "Make It Right",
+      "duration": 226,
+      "explicit": false,
+      "position": 3,
+      "artists": [
+        {
+          "id": 6201832,
+          "name": "BTS"
+        }
+      ],
+      "album": {
+        "id": 208201900,
+        "title": "MAP OF THE SOUL : 7"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/b8a5bc5a/9492/4e86/95c9/5bc6367b3c96/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/b8a5bc5a/9492/4e86/95c9/5bc6367b3c96/640x640.jpg",
+        "small": "https://resources.tidal.com/images/b8a5bc5a/9492/4e86/95c9/5bc6367b3c96/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/b8a5bc5a/9492/4e86/95c9/5bc6367b3c96/160x160.jpg"
+      }
+    },
+    {
+      "id": 74633172,
+      "type": "TRACK",
+      "title": "Time of Our Lives",
+      "duration": 271,
+      "explicit": false,
+      "position": 8,
+      "artists": [
+        {
+          "id": 15404,
+          "name": "James Blunt"
+        }
+      ],
+      "album": {
+        "id": 74633164,
+        "title": "The Afterlove"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/9485469c/fd9a/48aa/ab16/8e22f5a643de/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/9485469c/fd9a/48aa/ab16/8e22f5a643de/640x640.jpg",
+        "small": "https://resources.tidal.com/images/9485469c/fd9a/48aa/ab16/8e22f5a643de/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/9485469c/fd9a/48aa/ab16/8e22f5a643de/160x160.jpg"
+      }
+    },
+    {
+      "id": 66635144,
+      "type": "TRACK",
+      "title": "Pretty Woman",
+      "duration": 176,
+      "explicit": false,
+      "position": 9,
+      "artists": [
+        {
+          "id": 8835,
+          "name": "Robbie Williams"
+        }
+      ],
+      "album": {
+        "id": 66635135,
+        "title": "The Heavy Entertainment Show (Deluxe)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/37326ef6/3c6e/48bf/b37a/5487cd90cf39/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/37326ef6/3c6e/48bf/b37a/5487cd90cf39/640x640.jpg",
+        "small": "https://resources.tidal.com/images/37326ef6/3c6e/48bf/b37a/5487cd90cf39/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/37326ef6/3c6e/48bf/b37a/5487cd90cf39/160x160.jpg"
+      }
+    },
+    {
+      "id": 87760429,
+      "type": "TRACK",
+      "title": "Parallel Line",
+      "duration": 253,
+      "explicit": false,
+      "position": 6,
+      "artists": [
+        {
+          "id": 9848,
+          "name": "Keith Urban"
+        }
+      ],
+      "album": {
+        "id": 87760423,
+        "title": "Graffiti U"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/efb675c6/8893/4ce1/8e4c/2ee1e0672df2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/efb675c6/8893/4ce1/8e4c/2ee1e0672df2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/efb675c6/8893/4ce1/8e4c/2ee1e0672df2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/efb675c6/8893/4ce1/8e4c/2ee1e0672df2/160x160.jpg"
+      }
+    },
+    {
+      "id": 106433786,
+      "type": "TRACK",
+      "title": "Better Man",
+      "duration": 197,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 1554,
+          "name": "Westlife"
+        }
+      ],
+      "album": {
+        "id": 106433785,
+        "title": "Better Man"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/855d280f/587b/453f/ab97/78cf780b16a4/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/855d280f/587b/453f/ab97/78cf780b16a4/640x640.jpg",
+        "small": "https://resources.tidal.com/images/855d280f/587b/453f/ab97/78cf780b16a4/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/855d280f/587b/453f/ab97/78cf780b16a4/160x160.jpg"
+      }
+    },
+    {
+      "id": 83050161,
+      "type": "TRACK",
+      "title": "All on My Mind",
+      "duration": 225,
+      "explicit": false,
+      "position": 8,
+      "artists": [
+        {
+          "id": 5026868,
+          "name": "Anderson East"
+        }
+      ],
+      "album": {
+        "id": 83050153,
+        "title": "Encore"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/27d13fc9/b24d/4f9b/8a3d/28bdda7a24e1/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/27d13fc9/b24d/4f9b/8a3d/28bdda7a24e1/640x640.jpg",
+        "small": "https://resources.tidal.com/images/27d13fc9/b24d/4f9b/8a3d/28bdda7a24e1/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/27d13fc9/b24d/4f9b/8a3d/28bdda7a24e1/160x160.jpg"
+      }
+    },
+    {
+      "id": 41951368,
+      "type": "TRACK",
+      "title": "Hotel Ceiling",
+      "duration": 191,
+      "explicit": false,
+      "position": 6,
+      "artists": [
+        {
+          "id": 5204008,
+          "name": "Rixton"
+        }
+      ],
+      "album": {
+        "id": 41951362,
+        "title": "Let The Road"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/4678089c/873e/4cbd/875a/268643b50c7c/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/4678089c/873e/4cbd/875a/268643b50c7c/640x640.jpg",
+        "small": "https://resources.tidal.com/images/4678089c/873e/4cbd/875a/268643b50c7c/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/4678089c/873e/4cbd/875a/268643b50c7c/160x160.jpg"
+      }
+    },
+    {
+      "id": 115046891,
+      "type": "TRACK",
+      "title": "What Am I",
+      "duration": 185,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 8177845,
+          "name": "Why Don't We"
+        }
+      ],
+      "album": {
+        "id": 115046890,
+        "title": "What Am I"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/881cfec0/6f94/4e22/948e/fcb7b951954c/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/881cfec0/6f94/4e22/948e/fcb7b951954c/640x640.jpg",
+        "small": "https://resources.tidal.com/images/881cfec0/6f94/4e22/948e/fcb7b951954c/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/881cfec0/6f94/4e22/948e/fcb7b951954c/160x160.jpg"
+      }
+    },
+    {
+      "id": 56261047,
+      "type": "TRACK",
+      "title": "I Was Made For Loving You",
+      "duration": 188,
+      "explicit": false,
+      "position": 7,
+      "artists": [
+        {
+          "id": 4586274,
+          "name": "Tori Kelly"
+        },
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 56261040,
+        "title": "Unbreakable Smile"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/2b0ef9cb/687f/4f2e/b5e2/9a97e1a5b4cb/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/2b0ef9cb/687f/4f2e/b5e2/9a97e1a5b4cb/640x640.jpg",
+        "small": "https://resources.tidal.com/images/2b0ef9cb/687f/4f2e/b5e2/9a97e1a5b4cb/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/2b0ef9cb/687f/4f2e/b5e2/9a97e1a5b4cb/160x160.jpg"
+      }
+    }
+  ]
+}

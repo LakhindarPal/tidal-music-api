@@ -1,0 +1,21 @@
+{
+  "id": 319408964,
+  "title": "Magical (Acoustic)",
+  "type": "VIDEO",
+  "duration": 168,
+  "explicit": false,
+  "releasedAt": "2023-10-02T00:00:00.000Z",
+  "artists": [
+    {
+      "id": 3995478,
+      "name": "Ed Sheeran"
+    }
+  ],
+  "image": {
+    "original": null,
+    "large": "https://resources.tidal.com/images/efb53d30/f340/46a3/a827/e7cdc9e6b257/1280x720.jpg",
+    "medium": "https://resources.tidal.com/images/efb53d30/f340/46a3/a827/e7cdc9e6b257/640x360.jpg",
+    "small": "https://resources.tidal.com/images/efb53d30/f340/46a3/a827/e7cdc9e6b257/320x180.jpg",
+    "xsmall": "https://resources.tidal.com/images/efb53d30/f340/46a3/a827/e7cdc9e6b257/160x90.jpg"
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "id": 230064409,
+  "type": "ALBUM",
+  "title": "= (Tour Edition)",
+  "explicit": false,
+  "releasedAt": "2021-10-29T00:00:00.000Z",
+  "artists": [
+    {
+      "id": 3995478,
+      "name": "Ed Sheeran"
+    }
+  ],
+  "tracks": [
+    {
+      "id": 230064414,
+      "type": "TRACK",
+      "title": "Tides",
+      "duration": 196,
+      "explicit": false,
+      "position": 1,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064415,
+      "type": "TRACK",
+      "title": "Shivers",
+      "duration": 208,
+      "explicit": false,
+      "position": 2,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064416,
+      "type": "TRACK",
+      "title": "First Times",
+      "duration": 186,
+      "explicit": false,
+      "position": 3,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064419,
+      "type": "TRACK",
+      "title": "Bad Habits",
+      "duration": 231,
+      "explicit": false,
+      "position": 4,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064422,
+      "type": "TRACK",
+      "title": "Overpass Graffiti",
+      "duration": 237,
+      "explicit": false,
+      "position": 5,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064425,
+      "type": "TRACK",
+      "title": "The Joker And The Queen",
+      "duration": 186,
+      "explicit": false,
+      "position": 6,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064429,
+      "type": "TRACK",
+      "title": "Leave Your Life",
+      "duration": 224,
+      "explicit": false,
+      "position": 7,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064431,
+      "type": "TRACK",
+      "title": "Collide",
+      "duration": 210,
+      "explicit": false,
+      "position": 8,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064433,
+      "type": "TRACK",
+      "title": "2step",
+      "duration": 154,
+      "explicit": false,
+      "position": 9,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064434,
+      "type": "TRACK",
+      "title": "Stop The Rain",
+      "duration": 203,
+      "explicit": false,
+      "position": 10,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064435,
+      "type": "TRACK",
+      "title": "Love In Slow Motion",
+      "duration": 191,
+      "explicit": false,
+      "position": 11,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064436,
+      "type": "TRACK",
+      "title": "Visiting Hours",
+      "duration": 216,
+      "explicit": false,
+      "position": 12,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064437,
+      "type": "TRACK",
+      "title": "Sandman",
+      "duration": 259,
+      "explicit": false,
+      "position": 13,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064439,
+      "type": "TRACK",
+      "title": "Be Right Now",
+      "duration": 211,
+      "explicit": false,
+      "position": 14,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064440,
+      "type": "TRACK",
+      "title": "Afterglow",
+      "duration": 185,
+      "explicit": false,
+      "position": 15,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064441,
+      "type": "TRACK",
+      "title": "One Life",
+      "duration": 232,
+      "explicit": false,
+      "position": 16,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064442,
+      "type": "TRACK",
+      "title": "Penguins",
+      "duration": 249,
+      "explicit": false,
+      "position": 17,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064443,
+      "type": "TRACK",
+      "title": "I Will Remember You",
+      "duration": 214,
+      "explicit": false,
+      "position": 18,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064444,
+      "type": "TRACK",
+      "title": "Welcome To The World",
+      "duration": 177,
+      "explicit": false,
+      "position": 19,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064446,
+      "type": "TRACK",
+      "title": "The Joker And The Queen (feat. Taylor Swift)",
+      "duration": 185,
+      "explicit": false,
+      "position": 20,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        },
+        {
+          "id": 3557299,
+          "name": "Taylor Swift"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064449,
+      "type": "TRACK",
+      "title": "2step (feat. Lil Baby)",
+      "duration": 163,
+      "explicit": false,
+      "position": 21,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        },
+        {
+          "id": 6884754,
+          "name": "Lil Baby"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064453,
+      "type": "TRACK",
+      "title": "Bad Habits (feat. Bring Me The Horizon)",
+      "duration": 251,
+      "explicit": false,
+      "position": 22,
+      "artists": [
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        },
+        {
+          "id": 19137,
+          "name": "Bring Me The Horizon"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    },
+    {
+      "id": 230064459,
+      "type": "TRACK",
+      "title": "Peru",
+      "duration": 187,
+      "explicit": false,
+      "position": 23,
+      "artists": [
+        {
+          "id": 10009294,
+          "name": "Fireboy Dml"
+        },
+        {
+          "id": 3995478,
+          "name": "Ed Sheeran"
+        }
+      ],
+      "album": {
+        "id": 230064409,
+        "title": "= (Tour Edition)"
+      },
+      "image": {
+        "original": null,
+        "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+        "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+        "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+        "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+      }
+    }
+  ],
+  "image": {
+    "original": null,
+    "large": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/1080x1080.jpg",
+    "medium": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/640x640.jpg",
+    "small": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/320x320.jpg",
+    "xsmall": "https://resources.tidal.com/images/042082a2/ae88/4e5e/936e/2753b10958a2/160x160.jpg"
+  }
+}

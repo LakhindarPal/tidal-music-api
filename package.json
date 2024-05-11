@@ -1,0 +1,51 @@
+{
+  "name": "tidal-music-api",
+  "version": "1.0.0",
+  "description": "Interact with the Tidal API to retrieve music information such as tracks, artists, albums, videos, playlists, and mixes by URL.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "format:src": "prettier --write 'src/**/*.ts'",
+    "format:lib": "prettier --write 'lib/**/*.js'",
+    "format:docs": "prettier --write 'docs/**/*.md'",
+    "docs": "npx typedoc --out docs --plugin typedoc-plugin-markdown ./src",
+    "test": "node ex/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LakhindarPal/tidal-music-api.git"
+  },
+  "keywords": [
+    "Tidal",
+    "API",
+    "tidal-music-api",
+    "tidal-api",
+    "wrapper",
+    "music",
+    "tracks",
+    "artists",
+    "albums",
+    "videos",
+    "playlists",
+    "tidal-info"
+  ],
+  "author": "Lakhindar Pal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LakhindarPal/tidal-music-api/issues"
+  },
+  "homepage": "https://github.com/LakhindarPal/tidal-music-api#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typedoc": "^0.25.13",
+    "typedoc-plugin-markdown": "^4.0.1",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "itty-fetcher": "^0.9.4"
+  }
+}
