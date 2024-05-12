@@ -1,22 +1,20 @@
 import Track from "./Track";
+import Image from "./Image";
 import type { TrackData } from "./Track";
-
-interface Creator {
-  id: number;
-  name: string;
-}
+import type { ImageData } from "./Image";
+import type { ArtistLite } from "./ArtistLite";
 
 export interface PlaylistData {
   uuid: string;
   contentType: string;
   title: string;
   description: string;
-  creator: Creator;
+  creator: ArtistLite;
   created: string;
   lastUpdated: string;
-  image: { [key: string]: string | null };
+  image: ImageData;
   numberOfTracks: number;
-  tracks?: TrackData[];
+  tracks: TrackData[] | null;
 }
 
 export default class Playlist {
@@ -24,10 +22,10 @@ export default class Playlist {
   type: string;
   title: string;
   description: string;
-  creator: Creator;
+  creator: ArtistLite;
   createdAt: string;
   updatedAt: string;
-  image: { [key: string]: string | null };
+  image: Image;
   size: number;
   tracks: Track[];
 
@@ -44,12 +42,7 @@ export default class Playlist {
     this.creator = data.creator;
     this.createdAt = data.created;
     this.updatedAt = data.lastUpdated;
-    this.image = Object.fromEntries(
-      Object.entries(data.image).map(([key, value]) => [
-        key,
-        value ? "https:" + value : null,
-      ]),
-    );
+    this.image = new Image(data.image);
     this.size = data.numberOfTracks;
     this.tracks = (data.tracks || []).map((item) => new Track(item));
   }

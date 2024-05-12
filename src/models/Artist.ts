@@ -3,11 +3,13 @@ import Video from "./Video";
 import Album from "./Album";
 import Playlist from "./Playlist";
 import Mix from "./Mix";
+import Image from "./Image";
 import type { TrackData } from "./Track";
 import type { AlbumData } from "./Album";
 import type { PlaylistData } from "./Playlist";
 import type { VideoData } from "./Video";
 import type { MixData } from "./Mix";
+import type { ImageData } from "./Image";
 
 export interface ArtistData {
   id: number;
@@ -21,9 +23,7 @@ export interface ArtistData {
   playlists: PlaylistData[];
   videos: VideoData[];
   tracks: TrackData[];
-  image: {
-    [key: string]: string | null;
-  };
+  image: ImageData;
 }
 
 export default class Artist {
@@ -38,9 +38,7 @@ export default class Artist {
   playlists: Playlist[];
   videos: Video[];
   tracks: Track[];
-  image: {
-    [key: string]: string | null;
-  };
+  image: Image;
 
   /**
    * Initializes a new instance of the Artist class.
@@ -59,11 +57,6 @@ export default class Artist {
     this.playlists = data.playlists.map((item) => new Playlist(item));
     this.videos = data.videos.map((item) => new Video(item));
     this.tracks = data.tracks.map((item) => new Track(item));
-    this.image = Object.fromEntries(
-      Object.entries(data.image).map(([key, value]) => [
-        key,
-        value ? "https:" + value : null,
-      ]),
-    );
+    this.image = new Image(data.image);
   }
 }

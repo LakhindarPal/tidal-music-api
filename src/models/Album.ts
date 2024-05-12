@@ -1,10 +1,8 @@
 import Track from "./Track";
 import type { TrackData } from "./Track";
-
-interface Artist {
-  id: number;
-  name: string;
-}
+import Image from "./Image";
+import type { ImageData } from "./Image";
+import type { ArtistLite } from "./ArtistLite";
 
 export interface AlbumData {
   id: number;
@@ -12,9 +10,9 @@ export interface AlbumData {
   title: string;
   explicit: boolean;
   releaseDate: string;
-  artists: Artist[];
-  tracks?: TrackData[];
-  image: { [key: string]: string | null };
+  artists: ArtistLite[];
+  tracks: TrackData[] | null;
+  image: ImageData;
 }
 
 export default class Album {
@@ -23,9 +21,9 @@ export default class Album {
   title: string;
   explicit: boolean;
   releasedAt: string;
-  artists: Artist[];
+  artists: ArtistLite[];
   tracks: Track[];
-  image: { [key: string]: string | null };
+  image: Image;
 
   /**
    * Initializes a new instance of the Album class.
@@ -40,11 +38,6 @@ export default class Album {
     this.releasedAt = data.releaseDate;
     this.artists = data.artists;
     this.tracks = (data.tracks || []).map((item) => new Track(item));
-    this.image = Object.fromEntries(
-      Object.entries(data.image).map(([key, value]) => [
-        key,
-        value ? "https:" + value : null,
-      ]),
-    );
+    this.image = new Image(data.image);
   }
 }

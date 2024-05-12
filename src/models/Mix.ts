@@ -1,27 +1,24 @@
 import Track from "./Track";
+import Image from "./Image";
 import type { TrackData } from "./Track";
-
-interface Artist {
-  id: number;
-  name: string;
-}
+import type { ArtistLite } from "./ArtistLite";
 
 export interface MixData {
   id: number;
   contentType: string;
   title: string;
-  artists: Artist[];
-  tracks?: TrackData[];
-  image: { [key: string]: string | null };
+  artists: ArtistLite[];
+  tracks: TrackData[] | null;
+  image: Image;
 }
 
 export default class Mix {
   id: number;
   type: string;
   title: string;
-  artists: Artist[];
+  artists: ArtistLite[];
   tracks: Track[];
-  image: { [key: string]: string | null };
+  image: Image;
 
   /**
    * Initializes a new instance of the Mix class.

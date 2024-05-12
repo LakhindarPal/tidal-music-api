@@ -1,7 +1,6 @@
-interface Artist {
-  id: number;
-  name: string;
-}
+import Image from "./Image";
+import type { ImageData } from "./Image";
+import type { ArtistLite } from "./ArtistLite";
 
 export interface VideoData {
   id: number;
@@ -10,10 +9,8 @@ export interface VideoData {
   duration: number;
   explicit: boolean;
   releaseDate: string;
-  artists: Artist[];
-  image: {
-    [key: string]: string | null;
-  };
+  artists: ArtistLite[];
+  image: ImageData;
 }
 
 export default class Video {
@@ -23,10 +20,8 @@ export default class Video {
   duration: number;
   explicit: boolean;
   releasedAt: string;
-  artists: Artist[];
-  image: {
-    [key: string]: string | null;
-  };
+  artists: ArtistLite[];
+  image: Image;
 
   /**
    * Initializes a new instance of the Video class.
@@ -41,11 +36,6 @@ export default class Video {
     this.explicit = data.explicit;
     this.releasedAt = data.releaseDate;
     this.artists = data.artists;
-    this.image = Object.fromEntries(
-      Object.entries(data.image).map(([key, value]) => [
-        key,
-        value ? "https:" + value : null,
-      ]),
-    );
+    this.image = new Image(data.image);
   }
 }

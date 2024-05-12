@@ -4,6 +4,8 @@
 
 This npm package provides a simple wrapper for interacting with the Tidal API. It allows you to retrieve information about tracks, artists, albums, videos, playlists, and mixes based on their URLs.
 
+**Best part is you don't need any api key or authentication token.**
+
 ## Installation
 
 To install the package, run the following command:
@@ -73,6 +75,7 @@ if (trackId) {
 #### Artist, Album, Video, Playlist, Mix
 
 Similarly, you can use the corresponding functions (`getArtistId`, `getArtistInfo`, `getAlbumId`, `getAlbumInfo`, `getVideoId`, `getVideoInfo`, `getPlaylistId`, `getPlaylistInfo`, `getMixId`, `getMixInfo`) for retrieving information about artists, albums, videos, playlists, and mixes.
+You can also use `getTrackPreview` and `getVideoPreview` for retrieving preview url of a track or video.
 
 ## Contributing
 
