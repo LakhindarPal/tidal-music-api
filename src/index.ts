@@ -64,4 +64,10 @@ export {
   getVideoId,
   getVideoInfo,
   getVideoPreview,
+  Artist,
+  Track,
+  Album,
+  Video,
+  Playlist,
+  Mix,
 };

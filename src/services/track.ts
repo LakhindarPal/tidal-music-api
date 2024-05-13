@@ -80,7 +80,7 @@ export async function getTrackPreview(
  */
 export function getTrackId(url: string): number {
   const trackRegex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)?track\/(\d+)$/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)?track\/(\d+)$/;
   const matchedId: string | undefined = url.match(trackRegex)?.[1];
   return Number(matchedId);
 }

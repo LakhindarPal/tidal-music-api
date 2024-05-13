@@ -114,7 +114,7 @@ export async function getArtistInfo(
  */
 export function getArtistId(url: string): number {
   const artistRegex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)? artist\/(\d+)$/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)? artist\/(\d+)$/;
   const matchedId: string | undefined = url.match(artistRegex)?.[1];
   return Number(matchedId);
 }

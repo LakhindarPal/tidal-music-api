@@ -60,7 +60,7 @@ export async function getPlaylistInfo(
  */
 export function getPlaylistId(url: string): string {
   const playlistRegex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)?playlist\/([0-9a-zA-Z\-]+)$/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)?playlist\/([0-9a-zA-Z\-]+)$/;
   const matchedId: string | undefined = url.match(playlistRegex)?.[1];
   return matchedId ?? "";
 }

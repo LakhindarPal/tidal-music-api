@@ -59,7 +59,7 @@ export async function getAlbumInfo(
  */
 export function getAlbumId(url: string): number {
   const albumRegex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)?album\/(\d+)$/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)?album\/(\d+)$/;
   const matchedId: string | undefined = url.match(albumRegex)?.[1];
   return Number(matchedId);
 }

@@ -76,7 +76,7 @@ export async function getVideoPreview(id: number): Promise<string> {
  */
 export function getVideoId(url: string): number {
   const videoRegex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)?video\/(\d+)$/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)?video\/(\d+)$/;
   const matchedId: string | undefined = url.match(videoRegex)?.[1];
   return Number(matchedId);
 }

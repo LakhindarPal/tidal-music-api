@@ -6,7 +6,7 @@
  */
 export function getURLType(url: string): string | null {
   const regex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)?(track|artist|album|video|playlist)\/[0-9a-zA-Z\-]+/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)?(track|video|album|playlist|mix|artist)\/[0-9a-zA-Z\-]+/;
   const match: RegExpMatchArray | null = url.match(regex);
   return match ? match[1].toUpperCase() : null;
 }

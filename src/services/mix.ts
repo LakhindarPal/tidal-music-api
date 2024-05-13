@@ -57,7 +57,7 @@ export async function getMixInfo(
  */
 export function getMixId(url: string): string {
   const mixRegex: RegExp =
-    /^https:\/\/tidal\.com\/(?:browse\/)?mix\/([0-9a-zA-Z\-]+)$/;
+    /^https:\/\/(?:listen\.tidal\.com|tidal\.com)\/(?:browse\/)?mix\/([0-9a-zA-Z\-]+)$/;
   const matchedId: string | undefined = url.match(mixRegex)?.[1];
   return matchedId ?? "";
 }

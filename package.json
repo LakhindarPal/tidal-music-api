@@ -1,6 +1,6 @@
 {
   "name": "tidal-music-api",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "Interact with the Tidal API to retrieve music information such as tracks, artists, albums, videos, playlists, and mixes by URL.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,7 +11,6 @@
     "build": "tsc",
     "format:src": "prettier --write 'src/**/*.ts'",
     "format:lib": "prettier --write 'lib/**/*.js'",
-    "format:docs": "prettier --write 'docs/**/*.md'",
     "test": "node ex/test.js"
   },
   "repository": {
@@ -19,17 +18,17 @@
     "url": "git+https://github.com/LakhindarPal/tidal-music-api.git"
   },
   "keywords": [
-    "Tidal",
-    "API",
+    "tidal",
+    "api",
     "tidal-music-api",
     "tidal-api",
-    "wrapper",
+    "tidal-api-wrapper",
     "music",
-    "tracks",
-    "artists",
-    "albums",
-    "videos",
-    "playlists",
+    "tidalapi",
+    "tidalpromise",
+    "opentidal",
+    "ts-tidal-api",
+    "scrapper",
     "tidal-info"
   ],
   "author": "Lakhindar Pal",
